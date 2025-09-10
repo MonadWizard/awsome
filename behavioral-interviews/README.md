@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="images/behvaioral-repo-logo.png" width="350" height="200">
-</p>
-<p align="center">
-  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
-</p>
-
 This repository contains tips and resources to prepare for Behavioral interviews.
 
 ## ✅ General Tips to succeed in Behavioral Interviews
@@ -946,6 +939,3 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 
 ---
 
-<p align="center">
-  <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
-</p>

@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="diagrams/system-design-github-logo.png" width="350" height="200">
-</p>
 
 This repository contains free resources to learn System Design concepts and prepare for interviews.
 
@@ -168,8 +165,3 @@ This repository contains free resources to learn System Design concepts and prep
 - [The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 
----
-
-<p align="center">
-  <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
-</p>
